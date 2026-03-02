@@ -1,0 +1,7 @@
+D:\7057\unit4_1\unit4\bin\Debug\unit4.exe.config
+D:\7057\unit4_1\unit4\bin\Debug\unit4.exe
+D:\7057\unit4_1\unit4\bin\Debug\unit4.pdb
+D:\7057\unit4_1\unit4\obj\Debug\unit4.csproj.AssemblyReference.cache
+D:\7057\unit4_1\unit4\obj\Debug\unit4.csproj.CoreCompileInputs.cache
+D:\7057\unit4_1\unit4\obj\Debug\unit4.exe
+D:\7057\unit4_1\unit4\obj\Debug\unit4.pdb
